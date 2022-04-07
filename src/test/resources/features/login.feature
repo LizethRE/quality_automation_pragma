@@ -14,7 +14,7 @@
 
     @rutaCritica
     Escenario: Iniciar sesión con credenciales invalidas
-      Cuando ingresa sus credenciales lizeth.rios@pragma.com.co y 123456789
+      Cuando ingresa sus credenciales epalza_14@hotmail.com y 123456789
       Entonces deberia ver la alerta con el mensaje Authentication failed.
 
     @rutaAlterna
