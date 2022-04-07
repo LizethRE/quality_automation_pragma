@@ -1,0 +1,11 @@
+
+Q
+java:S2696$"6Make the enclosing method "static" or remove this set.(½Ñğíøÿÿÿÿ
+A
+java:S1068",Remove this unused "filePath" private field.(‚Åå	
+B
+java:S1068"-Remove this unused "sheetName" private field.(‰ôâZ
+`
+java:S2095#"JUse try-with-resources or close this "XSSFWorkbook" in a "finally" clause.(µÁÈâ
+c
+java:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(“ÌØ”
